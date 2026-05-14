@@ -1,7 +1,16 @@
-name,feature,description,season,category,image,source,memo,status
+﻿name,feature,description,season,category,image,source,memo,status
 하츄핑,사랑이 많고 밝은 성격,친절하고 다정한 매력을 가진 티니핑,시즌1,감정,images/hachuping.jpg,공식 소개 참고,대표 캐릭터 예시,초안
 차차핑,활발하고 씩씩함,언제나 에너지 넘치게 움직이는 티니핑,시즌1,행동,images/chachaping.jpg,공식 소개 참고,설명 보완 필요,초안
 방글핑,웃음이 많고 ��여움,밝은 분위기를 만들어 주는 사랑스러운 티니핑,시즌2,감정,images/placeholder.png,추후 확인,이미지 필요,초안
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+아자핑,용기와 씩씩함,언제나 용기가 넘치고 씩씩한 매력의 티니핑,시즌1,감정,images/ajaping.jpg,공식 소개,로열 티니핑,완료
+바로핑,성실하고 바름,항상 바르고 성실하게 행동하는 티니핑,시즌1,성격,images/baroping.jpg,공식 소개,로열 티니핑,완료
+라라핑,즐거움과 노래,노래 부르기를 아주 좋아하는 발랄한 티니핑,시즌1,행동,images/lalaping.jpg,공식 소개,로열 티니핑,완료
+해핑,행복과 긍정,모두에게 행복을 전해주는 긍정적인 티니핑,시즌1,감정,images/haeping.jpg,공식 소개,로열 티니핑,완료
+조아핑,다정하고 배려심 많음,친구들을 잘 챙기고 배려심이 깊은 티니핑,시즌2,성격,images/joaping.jpg,공식 소개,로열 티니핑,완료
+믿어핑,순수하고 믿음직함,언제나 친구들을 믿어주는 순수한 티니핑,시즌2,감정,images/mideoping.jpg,공식 소개,로열 티니핑,완료
+꾸래핑,온화하고 다정함,눈사람을 닮은 온화하고 평화로운 티니핑,시즌3,성격,images/kkuraeping.jpg,공식 소개,로열 티니핑,완료
+나나핑,열정과 활기,태양처럼 열정적이고 활기찬 티니핑,시즌3,감정,images/nanaping.jpg,공식 소개,로열 티니핑,완료
+솔찌핑,솔직하고 당당함,숨김없이 솔직하고 당당한 구름 모티브의 티니핑,시즌3,성격,images/soljjiping.jpg,공식 소개,로열 티니핑,완료
+샤샤핑,긍정과 발랄함,아이스크림을 닮은 통통 튀고 긍정적인 티니핑,시즌4,디저트,images/shashaping.jpg,공식 소개,로열 티니핑,완료
+포실핑,포근하고 상냥함,솜사탕처럼 달콤하고 상냥한 티니핑,시즌4,디저트,images/posilping.jpg,공식 소개,로열 티니핑,완료
+말랑핑,젤리처럼 통통 튐,에너지가 넘치고 젤리처럼 말랑말랑한 티니핑,시즌4,디저트,images/mallangping.jpg,공식 소개,로열 티니핑,완료
